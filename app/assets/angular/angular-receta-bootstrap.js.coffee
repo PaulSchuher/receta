@@ -1,0 +1,1 @@
+window.receta = angular.module('receta', [])
